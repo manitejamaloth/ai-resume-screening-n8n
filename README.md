@@ -26,7 +26,7 @@ Manually reviewing every incoming resume against job requirements is slow and in
 
 ## 📄 Workflow Export
 
-Full workflow JSON available in this repo — see `workflow.json`.
+Full workflow JSON available in this repo — see [`workflow.json`](https://github.com/manitejamaloth/ai-resume-screening-n8n/blob/8740d5bedc86bb1bc601b6c2a632fb54cf26feca/AI%20HR%20asst%20for%20recruitment.json).
 
 ## 💡 Impact
 
