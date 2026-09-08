@@ -22,7 +22,7 @@ Manually reviewing every incoming resume against job requirements is slow and in
 
 ## 📸 Workflow Screenshot
 
-*(Add screenshot of your n8n canvas here)*
+![Workflow Screenshot](https://github.com/manitejamaloth/ai-resume-screening-n8n/blob/c72b9416e3fc843f77aa0ea25fa9c2bcd467e571/Screenshot%202026-09-09%20001008.png)
 
 ## 📄 Workflow Export
 
